@@ -1,0 +1,228 @@
+*{
+	margin: 0 auto;
+}
+body{
+	background:url(../images/2560x1600-light-slate-gray-solid-color-background.jpg) no-repeat;
+	background-size: cover;
+	font-family: 'Oswald', sans-serif;
+}
+.container{
+	width: 1170px;
+	margin: 0 auto;
+}
+
+nav ul{
+	list-style: none;
+	margin-top: 30px;
+	text-align: center;
+}
+
+nav ul li{
+	display: inline;
+	margin-right: 100px;
+	border-radius: 15px;
+	background-color: black;
+	color: white;
+	padding: 20px 25px;
+}
+
+nav ul li:hover{
+	cursor: pointer;
+	background-color: lightgrey;
+	color: black;
+	-webkit-transition: 0.5s;
+	-moz-transition: 0.5s;
+	-o-transition:0.5s;
+	transition: 0.5s;
+	box-shadow: 5px 6px 7px #000;
+}
+
+.left-content{
+	margin-top: 100px;
+	background-color: black;
+	width: 800px;
+	height: 780px;
+	font-size: 30px;
+	float: left;
+	text-align: center;
+	border-radius: 10px;
+
+}
+.content{
+	background-color: white;
+	color: black;
+	width: 800px;
+	text-align: center;
+
+}
+.content:hover{
+	cursor: pointer;
+	background-color: #457992;
+	color: white;
+	border-radius: 10px;
+}
+.right-content{
+	margin-top: 100px;
+	width: 300px;
+	height: 780px;
+	font-size: 30px;
+	float: left;
+	text-align: center;
+	
+}
+.sidebar-add {
+    background-color: black;
+    color: white;
+    width: 300px;
+    height: 12%;
+    border: 2px solid white;
+    text-align: center;
+    float: left;
+}
+
+.sidebar-add:hover{
+	cursor: pointer;
+	background-color: lightgrey;
+	color: black;
+	box-shadow: 5px 5px 5px #000;
+	transition: 0.5s;
+	border-radius: 10px;
+
+}
+.facebook-box {
+    background-color: #457992;
+    color: black;
+    width: 300px;
+    height: 12%;
+    border: 2px solid white;
+    text-align: center;
+    float: left;
+}
+
+.facebook-box:hover{
+    cursor: pointer;
+	background-color: black;
+	color: white;
+	box-shadow: 5px 5px 5px #000;
+	transition: 0.5s;
+	border-radius: 10px;
+}
+
+.latest-blogs {
+	background-color: black;
+    color: white;
+    width: 300px;
+    height: 12%;
+    border: 2px solid white;
+    text-align: center;
+    float: left;
+	
+}
+
+.latest-blogs:hover {
+	cursor: pointer;
+	background-color: lightgrey;
+	color: black;
+	box-shadow: 5px 5px 5px #000;
+	transition: 0.5s;
+	border-radius: 10px;
+}
+
+.secondary-links {
+    background-color:  #457992;
+    color: black;
+    width: 300px;
+    height: 12%;
+    border: 2px solid white;
+    text-align: center;
+    float: left;
+}
+
+.secondary-links:hover {
+    cursor: pointer;
+	background-color: black;
+	color: white;
+	box-shadow: 5px 5px 5px #000;
+	transition: 0.5s;
+	border-radius: 10px;
+}
+
+.game-link{
+    background-color: black;
+    color: white;
+    width: 300px;
+    height: 12%;
+    border: 2px solid white;
+    text-align: center;
+    float: left;
+}
+
+.game-link:hover{
+	cursor: pointer;
+	background-color: lightgrey;
+	color: black;
+	box-shadow: 5px 5px 5px #000;
+	transition: 0.5s;
+	border-radius: 10px;
+
+}
+
+.contact-link {
+    background-color:  #457992;
+    color: black;
+    width: 300px;
+    height: 12%;
+    border: 2px solid white;
+    text-align: center;
+    float: left;
+}
+
+.contact-link:hover{
+	cursor: pointer;
+	background-color: black;
+	color: white;
+	box-shadow: 5px 5px 5px #000;
+	transition: 0.5s;
+	border-radius: 10px;
+
+}
+
+.tutorials {
+    background-color: black;
+    color: white;
+    width: 300px;
+    height: 12%;
+    border: 2px solid white;
+    text-align: center;
+    float: left;
+}
+
+.tutorials:hover{
+	cursor: pointer;
+	background-color: lightgrey;
+	color: black;
+	box-shadow: 5px 5px 5px #000;
+	transition: 0.5s;
+	border-radius: 10px;
+
+}
+
+.about-us {
+    background-color:  #457992;
+    color: black;
+    width: 300px;
+    height: 12%;
+    border: 2px solid white;
+    text-align: center;
+    float: left;
+}
+
+.about-us:hover{
+	cursor: pointer;
+	background-color: black;
+	color: white;
+	box-shadow: 5px 5px 5px #000;
+	transition: 0.5s;
+	border-radius: 10px;
+
+}
